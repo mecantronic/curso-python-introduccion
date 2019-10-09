@@ -1,0 +1,19 @@
+# --- Estos son comentarios---
+# Para instalar una versión específica
+# package==version
+
+# Para instalar una versión igual o superior
+# package>=version
+
+# Para instalar la versión más reciente
+# package
+# -----------------------
+
+numpy
+numpy-base
+scipy
+pandas
+pandas-datareader
+pandasql
+matplotlib
+seaborn
