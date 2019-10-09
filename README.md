@@ -59,19 +59,4 @@ Se propone la siguiente disponsición:
 
 © 2019. Infiniem Labs Acústica. **infiniemlab.dsp@gmail.com**. Curso de Procesamiento de Señales en Python (CC BY-SA 4.0)
 
-## TAREAS PENDIENTES
-  
-* [ ] miercoles nuevo repo hasta clase 3
-* [ ] actualizar web
-* [ ] mandar mail con link a web
-* [x] completar "indice por clase" con los links a jviewer.
-* [x] armar los notebooks de ejercicios
-* [x] ver temario debajo de nota y verificar los titulos de cada notebook. Que no falte nada.
-* [x] armar .zip con ejercicios solucion.
-* [x] agregar como usa el archivo requirements.txt
-* [x] la idea es armar cursos modulares, que permitan combinarlos, python cientifico, sql, api, audio, ia, UI. 
-
-> Nota: en el caso del curso de aduntref, el curso es de 12 horas, hay que pensar en funcion de los intereses de los alumno que tema abordar en la clase 4.
-
-
 
