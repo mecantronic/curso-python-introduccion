@@ -1,5 +1,3 @@
-![](../img/titulos_introduccion_a_python.png)
-
 En este repositorio de código abierto, se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
 
 ### Uso del material
@@ -57,6 +55,6 @@ Se propone la siguiente disponsición:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este documento se destribuye con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia Atribución CompartirIgual 4.0 Internacional de Creative Commons</a>.
 
-© 2019. Infiniem Labs Acústica. **infiniemlab.dsp@gmail.com**. Curso de Procesamiento de Señales en Python (CC BY-SA 4.0)
+© 2019. Infiniem Labs Acústica. **infiniemlab.dsp@gmail.com** (CC BY-SA 4.0)
 
 
