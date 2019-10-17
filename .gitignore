@@ -6,7 +6,6 @@
 # website: http://jupyter.org/
 
 # carpeta
-backup/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 

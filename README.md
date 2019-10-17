@@ -1,3 +1,6 @@
+# Introducción a Python
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion)
+
 En este repositorio de código abierto, se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
 
 ### Uso del material
