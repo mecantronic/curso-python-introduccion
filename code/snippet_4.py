@@ -1,10 +1,3 @@
-# descomentar las siguientes dos líneas si surge un error con matplotlib inline
-# from IPython import get_ipython
-# get_ipython().run_line_magic('matplotlib', 'inline')
-
-# permite hacer plot en lineas de comando
-%matplotlib inline 
-
 # importando módulos 
 import matplotlib.pyplot as plt  # módulo para hacer plot
 import numpy as np  # módulo para trabajar con array
