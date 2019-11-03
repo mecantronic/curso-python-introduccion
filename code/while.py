@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import math 
+from math import math.pi
 
 a = input("Ingrese un numero mayor de 0:")
 a = float(a)
@@ -14,3 +14,7 @@ while a > 0:
     a = float(a)
 print("Debe ingresar un número mayor a cero")
 print("Este programa terminara")
+
+
+-----
+import while
