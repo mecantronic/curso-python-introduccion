@@ -33,7 +33,7 @@ Se propone la siguiente disponsición:
     * Ejercicios. [[Local]](notebooks/101_ejercicio_2.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/101_ejercicio_2.ipynb)
     * Continuación de sintaxis básica. [[Local]](notebooks/102_sintaxis_basica_continuacion.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/102_sintaxis_basica_continuacion.ipynb)
     * Ejercicios. [[Local]](notebooks/103_ejercicio_3.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/103_ejercicio_3.ipynb)
-* Clase III (test)
+* Clase III
     * Modulos y funciones. [[Local]](notebooks/200_modulos_funciones.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/200_modulos_funciones.ipynb)
     * Ejercicios. [[Local]](notebooks/201_ejercicio_4.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/201_ejercicio_4.ipynb)  
     * Más sobre estructuras. [[Local]](notebooks/202_mas_sobre_estructuras.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/202_mas_sobre_estructuras.ipynb)
