@@ -1,9 +1,11 @@
 # Introducción a Python
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion)
 
-En este repositorio de código abierto, se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
+En este repositorio de código abierto, se distribuye bajo licencia Internacional [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). En el mismo se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
 
-### Uso del material
+> Si ya completaste el curso, de manera autonoma (online) o presencial, nos interesa conocer tu opinion. Te invitamos a completar un breve [cuestionario](https://forms.gle/4BAHbXiPn7PGwXKB6).
+
+## Uso del material
 
 Todas las clases del curso estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer del material se puede realizar de la siguiente manera:
 
@@ -13,15 +15,15 @@ Si tiene instalado git, la forma más fácil de acceder a estos archivos es clon
 **Sin `git`**
 Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha.
 
-### Dinámica del curso
+## Dinámica del curso
 
-**La duración total del curso es de 9 horas**, dividido en 3 clases de 3 horas cada una. El curso pretende ser intensivo, fue diseñado para ser dividido en dos intervalos teoricos-practico. Cada intervalo contempla un breve receso.
+**La duración total del curso es de 12 horas**, dividido en 4 clases de 3 horas cada una. El curso pretende ser intensivo, fue diseñado para ser dividido en dos intervalos teoricos-practico. Cada intervalo contempla un breve receso.
 
 Se propone la siguiente disponsición: 
 
 (30 minutos teoria + 50 minutos practica + 10 de receso ) * 2 = 3 horas
 
-### Indice por clase
+## Indice por clase MODIFICAR
 
 * Clase I
     * Instalación y configuración del entorno de desarrollo. [[Local]](notebooks/000_instalacion.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/000_instalacion.ipynb)
@@ -38,10 +40,11 @@ Se propone la siguiente disponsición:
     * Ejercicios. [[Local]](notebooks/201_ejercicio_4.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/201_ejercicio_4.ipynb)  
     * Más sobre estructuras. [[Local]](notebooks/202_mas_sobre_estructuras.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/202_mas_sobre_estructuras.ipynb)
     * Ejercicios. [[Local]](notebooks/204_ejercicio_5.ipynb) [[Web]](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion/blob/master/notebooks/204_ejercicio_5.ipynb)
+* Clase IV
 
 > **Nota:** cada notebook tiene su indice de contenidos bien detallado y los objetivos pedagógicos del mismo.
 
-## Autores
+## Autores y colaboradores
 
 * [Maximiliano Yommi](https://www.linkedin.com/in/myommi)
 * [Fabricio Chungo](https://www.linkedin.com/in/fabricio-chungo-983421b2)
@@ -52,11 +55,13 @@ Se propone la siguiente disponsición:
 * Mail: infiniemlab.dsp@gmail.com
 * Repositorio: [GitHub](https://github.com/infiniemlabs-acustica)
 * Facebook: [Infiniem Labs - Face](https://www.facebook.com/InfiniemLab)
-* WebSite: [Infiniem Labs - Web](https://infiniemacustica.com/)
+* WebSite: [Infiniem Labs Acústica](https://infiniemacustica.com/)
 
 ## Licencia
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este documento se destribuye con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia Atribución CompartirIgual 4.0 Internacional de Creative Commons</a>.
+![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+El contenido puede ser reutilizado, siempre y cuando se cumplan los terminos de la licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 
 © 2019. Infiniem Labs Acústica. **infiniemlab.dsp@gmail.com** (CC BY-SA 4.0)
 
