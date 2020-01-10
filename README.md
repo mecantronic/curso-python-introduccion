@@ -35,7 +35,7 @@ Se propone la siguiente disponsición:
 
 (30 minutos teoría + 50 minutos práctica + 10 de receso ) * 2 = 3 horas
 
-## Indice por clase MODIFICAR
+## Indice por clase
 
 Los notebooks pueden ser visualizados tanto online usando [nbviewer](https://nbviewer.jupyter.org/) o localmente desde el repositorio descargado. A continuación se disponen ambos links:
 
