@@ -1,6 +1,8 @@
 # Introducción a Python
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/infiniemlabs-acustica/python_introduccion)
 
+> Traducción automatica a ingles, usando [Google Translate](https://translate.google.com.ar) en el siguiente [link](README_eng.md)
+
 En este repositorio de código abierto, se distribuye bajo licencia Internacional [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). En el mismo se encuentran las clases y los ejercicios planteados durante el curso. Todos los apuntes, códigos de muestra y ejercicios están ordenados por clase.
 
 > Si ya completaste el curso, de manera autonoma (online) o presencial, nos interesa conocer tu opinión. Te invitamos a completar un breve [cuestionario](https://forms.gle/4BAHbXiPn7PGwXKB6).
