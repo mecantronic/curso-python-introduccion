@@ -68,7 +68,7 @@ Notebooks can be viewed both online using [nbviewer](https://nbviewer.jupyter.or
 * [Fabricio Chungo](https://www.linkedin.com/in/fabricio-chungo-983421b2)
 * [Ariel Groisman](https://www.linkedin.com/in/ariel-groisman)
 
-## gitContacts
+## Contacts
 
 * Mail: infiniemlab.dsp@gmail.com
 * Repository: [GitHub](https://github.com/infiniemlabs-acustica)
